@@ -1,0 +1,40 @@
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+
+#idCard {
+    border: 5px solid black;
+    height: 14em;
+    width: 25em;
+    font-family: cursive;
+    background-color: greenyellow;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto; 
+} 
+
+body {
+    color: red;
+    background-color: purple;
+} 
+
+h1 {
+    color: orange;
+    padding-left: 575px;
+}
+
+.form {
+    padding-left: 650px;
+}
+
+h2 {
+    padding-left: 150px;
+}
+
+.details {
+    text-align: left;
+    padding-top: 25px;
+    padding-left: 10px;
+}
